@@ -12,7 +12,7 @@ Daniel faced his fair share of challenges. There were moments of frustration whe
 
 One day, while browsing job listings, Daniel noticed a position for a junior Python developer at a nearby tech startup. With a trembling hand and a résumé filled with self-taught projects, he submitted his application. The interview was nerve-wracking, but he was honest about his journey and his passion for programming.
 
-To his astonishment, Daniel got the job. He was welcomed into a team of talented developers who appreciated his determination and eagerness to learn. With their guidance, he continued to grow, contributing to projects that went on to make a real impact.
+To his astonishment, Daniel got accepted at the job. He was welcomed into a team of talented developers who appreciated his determination and eagerness to learn. With their guidance, he continued to grow, contributing to projects that went on to make a real impact.
 
 Years passed, and Daniel, now an experienced Python developer, looked back on his journey. What started as a dream had become his reality. He had turned his passion into a fulfilling career, proving that with determination and the right resources, anyone could teach themselves how to write Python, or achieve any dream they set their mind to.
 
